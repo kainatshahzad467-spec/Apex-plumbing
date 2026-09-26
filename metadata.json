@@ -1,0 +1,6 @@
+{
+  "name": "Apex Flow - Master Plumbing & Mechanical",
+  "description": "24/7 emergency response, upfront transparent pricing, and zero-mess guarantee.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
